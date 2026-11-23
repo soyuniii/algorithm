@@ -7,9 +7,3 @@ def solution(food):
             left += str(f) * count
 
     return left + '0' + left[::-1]
-                
-                
-            
-        
-    
-    return answer
